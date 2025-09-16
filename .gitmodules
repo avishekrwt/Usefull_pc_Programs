@@ -1,7 +1,0 @@
-[submodule "find_similar_program"]
-    path = find_similar_program
-    url = https://github.com/avishekrwt/find_similar_program.git
-
-[submodule "organize_files_program"]
-	path = organize_files_program
-	url = https://github.com/avishekrwt/organize_files_program.git
